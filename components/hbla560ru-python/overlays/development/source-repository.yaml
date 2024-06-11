@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: hbla560ru-python-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/hbla560ru-python
